@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "24269320454",
+    "firebase_url": "https://nabizolcer-2ff75-default-rtdb.firebaseio.com",
+    "project_id": "nabizolcer-2ff75",
+    "storage_bucket": "nabizolcer-2ff75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24269320454:android:b5ec848b7c2cbc94422e87",
+        "android_client_info": {
+          "package_name": "com.example.nabiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuvRN1SL7dmAGqZopxsMEEuSAcqU4byVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
